@@ -22,3 +22,8 @@
 - :cry:
 - :sweat:
 - :pensive:
+
+# Keyboard shortcuts
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
